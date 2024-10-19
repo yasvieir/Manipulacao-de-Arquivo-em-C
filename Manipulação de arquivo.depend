@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1729372834 source:c:\users\yasmi\onedrive\documentos\manipulação de arq em c\manipulação de arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"interface.c"
+	"funcoes.c"
+
+1729373925 c:\users\yasmi\onedrive\documentos\manipulação de arq em c\manipulação de arquivo\interface.c
+	"interface.h"
+
+1729372695 c:\users\yasmi\onedrive\documentos\manipulação de arq em c\manipulação de arquivo\interface.h
+
+1729373914 c:\users\yasmi\onedrive\documentos\manipulação de arq em c\manipulação de arquivo\funcoes.c
+	"funcoes.h"
+
+1729373866 c:\users\yasmi\onedrive\documentos\manipulação de arq em c\manipulação de arquivo\funcoes.h
+
